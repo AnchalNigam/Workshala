@@ -1,0 +1,24 @@
+p{
+	font-family:impact;
+}
+.well{
+	background:#66FFCC !important;
+	
+	
+}
+.myjumbotron{
+	background:url(sky.jpg);
+	background-size:cover;
+}
+.carousel-inner{
+  
+  max-height: 200px !important;
+}
+.carousel-caption{
+	
+top:30px;
+
+
+
+	
+}
