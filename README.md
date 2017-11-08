@@ -1,0 +1,2 @@
+# Workshala
+Workshala is for applying to online workshops.Students can apply after login/signup.It is having frontpage where all lists of workshops are there and this is fetched from database.It is having login/signup page.I used PHP for validating the input given to signup page by students.It is having students dashboard where students can see all the lists of workshops in which they have applied.I made this project using HTML, CSS,Bootstrap for frontend and PHP,MySQL for backend.
