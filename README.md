@@ -4,7 +4,9 @@ Workshala is for applying to online workshops.Students can apply after login/sig
 Screenshots
 
 ![frontpage](https://user-images.githubusercontent.com/32920850/32536379-48e9628e-c484-11e7-982e-9b2c7fffd2a4.png)
-
+![signup](https://user-images.githubusercontent.com/32920850/32536436-842a07ea-c484-11e7-93eb-040d84581bf3.png)
+![loginpage](https://user-images.githubusercontent.com/32920850/32536459-941fac22-c484-11e7-9912-a1bf04ce4aaa.png)
+![dashboard](https://user-images.githubusercontent.com/32920850/32536466-99696fec-c484-11e7-9e5f-0b616357e06c.png)
 
 Files
 
